@@ -1,6 +1,6 @@
-package org.student.service;
+package com.student.service;
 
-import org.student.dao.EnrollmentDAO;
+import com.student.dao.EnrollmentDAO;
 
 import java.sql.SQLException;
 import java.util.List;

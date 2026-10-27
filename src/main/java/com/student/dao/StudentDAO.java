@@ -1,9 +1,9 @@
-package org.student.dao;
+package com.student.dao;
 
-import org.student.config.DBConnection;
-import org.student.exception.DuplicateStudentException;
-import org.student.exception.StudentNotFoundException;
-import org.student.model.Student;
+import com.student.config.DBConnection;
+import com.student.exception.DuplicateStudentException;
+import com.student.exception.StudentNotFoundException;
+import com.student.model.Student;
 
 import java.sql.*;
 import java.util.ArrayList;

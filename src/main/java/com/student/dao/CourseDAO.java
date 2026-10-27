@@ -1,8 +1,8 @@
-package org.student.dao;
+package com.student.dao;
 
-import org.student.config.DBConnection;
-import org.student.exception.CourseNotFoundException;
-import org.student.model.Course;
+import com.student.config.DBConnection;
+import com.student.exception.CourseNotFoundException;
+import com.student.model.Course;
 
 import java.sql.*;
 import java.util.ArrayList;

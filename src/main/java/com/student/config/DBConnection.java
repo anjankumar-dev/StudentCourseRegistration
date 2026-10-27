@@ -1,4 +1,4 @@
-package org.student.config;
+package com.student.config;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;

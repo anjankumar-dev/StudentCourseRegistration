@@ -1,7 +1,7 @@
-package org.student.service;
+package com.student.service;
 
-import org.student.dao.CourseDAO;
-import org.student.model.Course;
+import com.student.dao.CourseDAO;
+import com.student.model.Course;
 
 import java.math.BigDecimal;
 import java.sql.SQLException;

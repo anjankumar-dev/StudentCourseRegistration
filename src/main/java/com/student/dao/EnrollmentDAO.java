@@ -1,7 +1,7 @@
-package org.student.dao;
+package com.student.dao;
 
-import org.student.config.DBConnection;
-import org.student.exception.EnrollmentException;
+import com.student.config.DBConnection;
+import com.student.exception.EnrollmentException;
 
 import java.sql.*;
 import java.util.ArrayList;

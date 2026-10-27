@@ -1,10 +1,13 @@
-package org.student;
+package com.student;
 
-import org.student.config.DBConnection;
-import org.student.exception.*;
-import org.student.service.CourseService;
-import org.student.service.EnrollmentService;
-import org.student.service.StudentService;
+import com.student.config.DBConnection;
+import com.student.exception.CourseNotFoundException;
+import com.student.exception.DuplicateStudentException;
+import com.student.exception.EnrollmentException;
+import com.student.exception.StudentNotFoundException;
+import com.student.service.CourseService;
+import com.student.service.EnrollmentService;
+import com.student.service.StudentService;
 
 import java.math.BigDecimal;
 import java.sql.SQLException;

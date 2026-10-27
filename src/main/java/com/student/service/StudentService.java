@@ -1,7 +1,7 @@
-package org.student.service;
+package com.student.service;
 
-import org.student.dao.StudentDAO;
-import org.student.model.Student;
+import com.student.dao.StudentDAO;
+import com.student.model.Student;
 
 import java.sql.SQLException;
 import java.util.List;

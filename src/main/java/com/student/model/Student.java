@@ -1,4 +1,4 @@
-package org.student.model;
+package com.student.model;
 
 public class Student {
     private int studentId;

@@ -1,4 +1,4 @@
-package org.student.exception;
+package com.student.exception;
 
 public class CourseNotFoundException extends RuntimeException {
     public CourseNotFoundException(int id) { super("Course not found with ID: " + id); }
