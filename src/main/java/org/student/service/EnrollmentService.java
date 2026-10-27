@@ -1,6 +1,6 @@
-package org.anjan.service;
+package org.student.service;
 
-import org.anjan.dao.EnrollmentDAO;
+import org.student.dao.EnrollmentDAO;
 
 import java.sql.SQLException;
 import java.util.List;

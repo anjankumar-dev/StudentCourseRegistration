@@ -1,12 +1,10 @@
-package org.anjan;
+package org.student;
 
-import org.anjan.config.DBConnection;
-import org.anjan.exception.*;
-import org.anjan.model.Course;
-import org.anjan.model.Student;
-import org.anjan.service.CourseService;
-import org.anjan.service.EnrollmentService;
-import org.anjan.service.StudentService;
+import org.student.config.DBConnection;
+import org.student.exception.*;
+import org.student.service.CourseService;
+import org.student.service.EnrollmentService;
+import org.student.service.StudentService;
 
 import java.math.BigDecimal;
 import java.sql.SQLException;

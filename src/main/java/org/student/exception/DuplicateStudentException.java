@@ -1,4 +1,4 @@
-package org.anjan.exception;
+package org.student.exception;
 
 public class DuplicateStudentException extends RuntimeException {
     public DuplicateStudentException(String email) {

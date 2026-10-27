@@ -1,7 +1,7 @@
-package org.anjan.service;
+package org.student.service;
 
-import org.anjan.dao.StudentDAO;
-import org.anjan.model.Student;
+import org.student.dao.StudentDAO;
+import org.student.model.Student;
 
 import java.sql.SQLException;
 import java.util.List;

@@ -1,7 +1,7 @@
-package org.anjan.dao;
+package org.student.dao;
 
-import org.anjan.config.DBConnection;
-import org.anjan.exception.EnrollmentException;
+import org.student.config.DBConnection;
+import org.student.exception.EnrollmentException;
 
 import java.sql.*;
 import java.util.ArrayList;

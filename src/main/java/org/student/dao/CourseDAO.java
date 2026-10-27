@@ -1,8 +1,8 @@
-package org.anjan.dao;
+package org.student.dao;
 
-import org.anjan.config.DBConnection;
-import org.anjan.exception.CourseNotFoundException;
-import org.anjan.model.Course;
+import org.student.config.DBConnection;
+import org.student.exception.CourseNotFoundException;
+import org.student.model.Course;
 
 import java.sql.*;
 import java.util.ArrayList;

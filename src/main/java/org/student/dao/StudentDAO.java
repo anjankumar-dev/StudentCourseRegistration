@@ -1,9 +1,9 @@
-package org.anjan.dao;
+package org.student.dao;
 
-import org.anjan.config.DBConnection;
-import org.anjan.exception.DuplicateStudentException;
-import org.anjan.exception.StudentNotFoundException;
-import org.anjan.model.Student;
+import org.student.config.DBConnection;
+import org.student.exception.DuplicateStudentException;
+import org.student.exception.StudentNotFoundException;
+import org.student.model.Student;
 
 import java.sql.*;
 import java.util.ArrayList;

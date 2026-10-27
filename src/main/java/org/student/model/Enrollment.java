@@ -1,4 +1,4 @@
-package org.anjan.model;
+package org.student.model;
 
 import java.time.LocalDate;
 

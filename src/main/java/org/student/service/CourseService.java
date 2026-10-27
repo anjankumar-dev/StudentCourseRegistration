@@ -1,7 +1,7 @@
-package org.anjan.service;
+package org.student.service;
 
-import org.anjan.dao.CourseDAO;
-import org.anjan.model.Course;
+import org.student.dao.CourseDAO;
+import org.student.model.Course;
 
 import java.math.BigDecimal;
 import java.sql.SQLException;

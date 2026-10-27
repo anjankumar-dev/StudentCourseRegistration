@@ -1,4 +1,4 @@
-package org.anjan.config;
+package org.student.config;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;

@@ -1,4 +1,4 @@
-package org.anjan.model;
+package org.student.model;
 
 public class Student {
     private int studentId;
